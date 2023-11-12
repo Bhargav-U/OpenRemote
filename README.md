@@ -17,4 +17,6 @@ A simple multipurpose remote that can control  projects  using  wifi,bluetooth,n
   This design is simple and include the battery charging circuit with bms for overdischarge protection,overcharge protection,auto cutoff when batteries charge compleatly with plug on option for battery level indicator.<br>
   As of now the design is just a simple pcb design to look how feasable the idea is.<br>
   This design includes a nrf24 for radio contro,esp32 for processing and also wifi and bluetooth based receivers.<br>
+  This includes a oled display as well to help us know whatbis hapennong with a simple ui<br>
+  
 </p>
