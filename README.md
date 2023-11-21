@@ -1,3 +1,5 @@
+<a href='none' target="_blank"><img alt='' src='https://img.shields.io/badge/ONGOING-100000?style=for-the-badge&logo=&logoColor=white&labelColor=FF0000&color=FF0000'/></a>
+
 # OpenRemote
 A simple multipurpose remote that can control  projects  using  wifi,bluetooth,nrf24 radio based receivers.
 
